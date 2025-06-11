@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Welcome to KaTsuDon's Blog
 ---
 
 ## What is it?
