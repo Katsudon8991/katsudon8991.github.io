@@ -5,11 +5,11 @@ narrow: true
 title: Welcome to KaTsuDon's Blog
 ---
 
-## What is it?
+## 인사
 
 {% include components/intro.md %}
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+[저에 대한 개발자 정보는 여기를 클릭해주세요.]({{ site.baseurl}}{% link _pages/about.md %})
 
 ## How to use it
 
