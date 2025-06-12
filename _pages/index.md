@@ -15,8 +15,6 @@ title: Welcome to KaTsuDon's Blog
 
 ### Recent Posts
 
-<hr />
-
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
