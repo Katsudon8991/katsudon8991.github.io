@@ -1,0 +1,17 @@
+---
+---
+
+// Customise bootstrap, and set site-wide variables.
+@import 'variables';
+
+// Include Bootstrap.
+@import 'bootstrap-5.2.3/bootstrap';
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+:root{
+    --bs-body-font-family: 'Noto Sans KR', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+// Include SCSS for the theme itself.
+@import 'theme';
