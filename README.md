@@ -1,51 +1,20 @@
-# Friday Theme
+# Katsudon8991.github.io
 
-## A Bootstrap 5 portfolio and blog theme for Jekyll
+## Intro
 
-* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
-* Example 2: my own homepage, http://www.freytag.org.uk
+개발자 블로그 구현을 위한 저장소 입니다.
 
-## Quick Start
+블로그 테마 출처 : [sfreytag](https://github.com/sfreytag)'s [friday-theme](https://github.com/sfreytag/friday-theme)
 
-For Jekyll 4.* on localhost, clone this repo then from within it:
+## Tech Stack
 
-Set baseurl to `""` in `_config.yml` then run: 
+* Mark up : HTML
+* Style : Bootstrap-5, scss
+* script : JavaScript, Ruby
+* VC : git, github
 
-```
-bundle install
-bundle exec jekyll serve
-```
+## To Do
 
-## Get Started
-
-Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
-
-## Usage
-
-The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
-
-## Comaptible with Jekyll 4 and GitHub pages
-
-This theme uses `{{site.baseurl}}` throughout for compatibility with GitHub Pages running Jekyll 3.9 where the site is served out of a folder - eg https://sfreytag.github.io/friday-theme/
-
-It also works with Jekyll 4.* and where the site is served out of the root of the domain - eg https://www.freytag.org.uk
-
-However, this means you cannot use Jekyll 4.* and a folder - the base URL will get repeated in the links. For Jekyll 4.* you *must* serve it from the root of the domain.
-
-Look at `_config.yml` and the `baseurl` setting.
-
-## Bootstrap 5
-
-In May 2025 this theme was upgraded to use Bootstrap 5. To upgrade your older FridayTheme to also use Bootstrap 5, look back through the commits on the main branch. In brief, you need to:
-
-1. Add the Bootstrap 5.2.3 SCSS files
-2. Update site.scss to load Boostrap 5
-3. Update classes. The theme needs `ml-`, `mr-`, `border-left-` and `border-right-` to be updated to `ms-`, `me-`, `border-start-`, and `border-end-`. You might have added other classes that need updating.
-4. Replace the JS with the Bootstrap 5.3 compiled JS files
-5. Update the class `sr-only` to `visually-hidden`
-6. Fix the components that use JS. This mostly requires attributes like `data-toggle` to become `data-bs-toggle`
-7. Remove the Masonry / `.card-columns` layout if you were using it Unfortunately Bootstrap5 no longer supports it.
-8. Add a rule to `_variables.scss` to remove link underlines
-9. Remove the old Boostrap SCSS files
-
-You may be able to achieve this by merging this up into your own homepage, if it has not diverged too far away from it.
+* 프로필 이미지 크기 줄이기
+* Documentation nav 삭제
+* posts 작성
