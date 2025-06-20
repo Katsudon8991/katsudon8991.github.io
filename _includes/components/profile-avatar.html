@@ -1,9 +1,12 @@
-<p class="card-text d-none d-sm-block">
+<p class="card-text d-flex align-items-center justify-content-center justify-content-md-start">
     <a href="{{site.baseurl}}{% link _pages/index.md %}">
-        <img class="profile-image rounded-circle"  src="{{ site.baseurl }}{{ site.avatar }}" width="40" height="40" />
+        <img class="profile-image rounded-circle me-2"  src="{{ site.baseurl }}{{ site.avatar }}" width="40" height="40" />
+    </a>
+    <a href="{{site.baseurl}}{% link _pages/index.md %}">
+        <strong class="text-body">{{site.name}}</strong>
     </a>
 </p>
-<h4 class="card-title d-none d-sm-block">{{site.name}}</h4>
+<!-- <h4 class="card-title d-none d-sm-block">{{site.name}}</h4> -->
 
 <p class="card-text d-xs-flex d-sm-none">
     <a href="{{site.baseurl}}{% link _pages/index.md %}">
@@ -11,3 +14,14 @@
     </a>
     <strong>{{site.name}}</strong>
 </p>
+
+<!-- 
+<p class="card-text d-flex align-items-center justify-content-center justify-content-md-start">
+    <a href="/index.html">
+        <img class="profile-image rounded-circle me-2" src="/theme/img/avatar.jpg" width="40" height="40">
+    </a>
+    <a href="/index.html">
+        <strong class="text-body">Simon Freytag</strong>
+    </a>
+</p>
+-->
