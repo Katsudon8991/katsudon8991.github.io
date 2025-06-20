@@ -12,9 +12,3 @@
 * Style : Bootstrap-5, scss
 * script : JavaScript, Ruby
 * VC : git, github
-
-## To Do
-
-* 프로필 이미지 크기 줄이기
-* Documentation nav 삭제
-* posts 작성
