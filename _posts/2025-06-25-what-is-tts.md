@@ -2,13 +2,13 @@
 title: TTS에 대해 알아보자
 tags:
   - AI
-  - Python
+  - TTS
   - Low Level
 ---
 
 ## 1. 개요
 
-TTS(Text-to-Speech) 시스템은 텍스트 문장을 자연스러운 음성으로 출력하는 시스템이다. 
+TTS(Text-to-Speech) 시스템은 텍스트 문장을 자연스러운 음성으로 출력하는 시스템이다. 현대사회에서는 
 
 ## 2. 역사
 
