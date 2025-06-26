@@ -8,9 +8,13 @@ tags:
 
 ## 1. 개요
 
-TTS(Text-to-Speech) 시스템은 텍스트 문장을 자연스러운 음성으로 출력하는 시스템이다. 현대사회에서는 
+<audio controls>
+  <source src="../sound/2025-06-25-tts.mp3" type="audio/mpeg"/>
+</audio>
 
-## 2. 역사
+```
+TTS(Text-to-Speech) 시스템은 텍스트 문장을 자연스러운 음성으로 출력하는 시스템이다.
+```
 
 
 
@@ -21,3 +25,4 @@ TTS(Text-to-Speech) 시스템은 텍스트 문장을 자연스러운 음성으�
 ### 참고문헌
 
 * [이회만; 김지영. TTS 적용을 위한 음성합성엔진. 1998.](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO199811920612199)
+* [https://ttsopenai.com/](https://ttsopenai.com/)
