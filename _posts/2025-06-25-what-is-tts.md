@@ -1,11 +1,14 @@
 ---
-title: TTS에 대해 알아보자
+title: tts는 무엇인가?
 tags:
   - AI
   - TTS
   - Low Level
 ---
 
+## 작성중...
+
+<!-- 
 ## 1. 개요
 
 <audio controls>
@@ -18,11 +21,12 @@ TTS(Text-to-Speech) 시스템은 텍스트 문장을 자연스러운 음성으�
 
 
 
-## 3. 오픈소스
+## 2. 오픈소스
 
 
 
 ### 참고문헌
 
 * [이회만; 김지영. TTS 적용을 위한 음성합성엔진. 1998.](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO199811920612199)
-* [https://ttsopenai.com/](https://ttsopenai.com/)
+* [tts 서비스](https://ttsopenai.com/)
+ -->
