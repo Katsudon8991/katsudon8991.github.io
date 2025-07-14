@@ -2,10 +2,10 @@
 title : docker 배우기 0강. docker란 무엇인가?
 tag:
     - docker
-    - docker 배우기
-    - 가상화 기술
-    - 서비스 배포
-    - 피드백 환영
+    - Learn docker
+    - Virtualization Technology
+    - Service Distribution
+    - Welcome Feedback
 ---
 
 ## 서론
