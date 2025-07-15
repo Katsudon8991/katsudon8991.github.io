@@ -11,7 +11,7 @@ tag:
 ## 서론
 
 <div class="card mb-3">
-    <img class="card-img-top" src="https://i.namu.wiki/i/We8eAU4H5r63cQaif1PXCWc3jFJ1pYMekix1_qlgnkzfyeHj1W4D8mppFL8s-pt0uHkPMWNxwTwJlhhEtTgUWeIxSQcAXVd31Gz83qmF58VDSLjAikYkKj0LGeR8eCqbuCgwwdMbbbjvEyVSmbEE1A.svg"/>
+    <img class="card-img-top" src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg"/>
     <div class="card-body bg-light">
         <div class="card-text">
             사실상 업계 표준이 된 docker
