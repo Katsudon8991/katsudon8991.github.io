@@ -149,9 +149,9 @@ FROM httpd
 COPY ./webapp /usr/local/apache2/htdocs
 CMD ["httpd-foreground"]
 ```
-* ```FROM``` : docker hub에서 가져올 이미지 이름
-* ```COPY``` : volume 설정
-* ```CMD``` : image 실행 시 처음 실행되는 명령어
+* `FROM` : docker hub에서 가져올 이미지 이름
+* `COPY` : volume 설정
+* `CMD` : image 실행 시 처음 실행되는 명령어
 
 * docker image build
 ```bash
