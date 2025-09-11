@@ -73,6 +73,6 @@ CI/CD를 적용하기 위해서는 다른 전략을 사용해야 하는데, 대�
 ## 결론
 많은 회사에서 협업 시 위와 같은 전략을 사용하기 때문에, 취직 후 github와 같은 협업 도구 가이드라인을 파악해두면 좋습니다. 이러한 전략을 이해하는 것은 모든 전문 개발자에게 중요한 기술입니다.
 
-### 참고자료
+### 참고자료 및 출처
 * [(무료) 매우쉽게 알려주는 git & github](https://codingapple.com/course/git-and-github/)
 * [Reddit - How do you navigate branch spaghetti?](https://www.reddit.com/r/git/comments/2yt9ox/how_do_you_navigate_branch_spaghetti/)
